@@ -1,6 +1,0 @@
-Metadata-Version: 2.1
-Name: DiamondPriceprediction
-Version: 0.0.1
-Author: Shilpi Agrawal
-Author-email: shilpi.agrawal3001@gmail.com
-Requires-Dist: pandas
